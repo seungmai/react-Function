@@ -23,7 +23,7 @@ const Toggle = () => {
 
 const ToggleContainer = styled.div`
   position: relative;
-  margin-top: 8rem;
+  margin-top: 2rem;
   left: 48.7%;
   cursor: pointer;
 
